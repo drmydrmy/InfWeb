@@ -1,0 +1,44 @@
+header {
+    background-color: rgb(200, 182, 143);
+    border-radius: 30px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:rgb(95, 91, 91)
+
+}
+
+.menu-item {
+    display: inline-flex;
+    padding-left: 10;
+    padding-right: 10;
+}
+
+.menu {
+    text-align: center;
+    border-top: solid;
+    border-top-width: 1;
+    border-top-color: rgb(79, 44, 13);
+}
+
+.cat-img {
+    width: 500px;
+}
+
+.catalog-menu {
+    list-style: none;
+}
